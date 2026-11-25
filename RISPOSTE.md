@@ -1,0 +1,4 @@
+## L'ambiente di lavoro
+1: i codespace sono degli ambienti di lavoro sul cloud che girano su altri computer (computer forniti da github o stackblitz o altri servizi). per usarne uno, riprendendo il lavoro, basta accedere con lo stesso account di github e usare lo stesso repository
+2: l'ambiente virtuale è una cartella (.venv) che contiene le librerie installate. serve per usare in modo facile e veloce le librerie nei codespace, senza dover reinstallare tutte le librerie ogni volta che si perde la sessione con un codespace
+3: un commit salva i cambiamenti fatti nell'ambiente di lavoro, ma questi non sono effettivamente applicati al repository finché non si esegue il comando sync
